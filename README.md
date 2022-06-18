@@ -14,16 +14,22 @@ https://cloud.google.com/iam/docs/configuring-workload-identity-federation#gclou
 
 ***How to Connect to GCP from your Terminal***
 1. Install GCloud CLI
+
 https://cloud.google.com/sdk/docs/install#linux
 
 2. Authenticate your Terminal/Laptop to connect to GCP
+```
 gcloud auth login
+```
 A Browser will be opened, select the user id and then allow permissions to connect
 
 3. Set the project to "Your Project ID", in the case here it is "coe-srs-2022"
-gcloud config set project coe-srs-2022
 
+```
+gcloud config set project coe-srs-2022
+```
 4. Check the Config
 
 ***HOW to Install Docker helpers and connect to GCP and then Push to GAR***
+
 https://cloud.google.com/artifact-registry/docs/docker/pushing-and-pulling
