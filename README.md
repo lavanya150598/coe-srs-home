@@ -6,7 +6,7 @@
 
 **CI/CD Flow Diagram**
 
-![image](https://user-images.githubusercontent.com/100637276/174425886-c69edc6b-0168-49ca-853f-5e7075b33ac4.png)
+![image](https://user-images.githubusercontent.com/100637276/174463169-6d6c5b3f-0981-4211-b024-9e36680ab903.png)
 
 ***How to Setup Workload Identity Federation? ***
 (A Secure Invisible way of authentication external applications to GCP Services)
